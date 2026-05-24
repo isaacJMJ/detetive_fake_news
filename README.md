@@ -64,14 +64,3 @@ O projeto foi construído por alunos do curso Técnico em Informática (T.I.):
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
 
 ---
-
-### 💡 Uma dica rápida de amigo (Peer Review):
-
-Reparei que no seu `index.html` a tag do script está apontando para `../index.js`, mas o seu arquivo de script veio nomeado como `script.js`. Para que a verificação funcione certinho quando você abrir o site, lembre-se de ajustar a tag no final do HTML para:
-
-```html
-<script src="script.js"></script> ```
-
-Você gostaria de adicionar alguma seção extra ao README, como planos futuros para o projeto ou uma área com prints da tela?
-
-```
